@@ -49,7 +49,7 @@ i.	Accuracy and Precision
 
 After performing logistic regression on the dataset we got 87% accuracy and 22 % of precision.
 
-2.	Power Bi
+2.Power Bi
 
 Power Bi was used to generate interactive report were we can easily interact with the data as we have done the visualization of the data in scatterplot, barplot, donut chart, pie chart and card chart to show the actual reading of the selected data from the dataset.
 
